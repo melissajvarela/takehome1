@@ -1,32 +1,22 @@
 .container-fluid{
   background-color:#ffff00; /*yellow */
 }
-.row{
+.container{
   height:600px;
   width:400px;
 }
-.col-md-12{
-  background-color:#0000ff; /*blue*/
-  height:300px;
+#row{
+  border-color:black;
 }
 .col-md-12{
-  background-color:#00b33c;
-  height:150px;
+  background-color:blue green black;
 }
 .col-md-8{
-  background-color:#e60000;/*red*/
-  height:400px
+  background-color:red;
 }
 .col-md-4{
-  background-color:#00ffff; /*teaL*/
-  height:400px;
+  background-color:teal;
 }
 .col-md-3{
-  background-color:#ff9900; /*orange*/
-  height:250px
-}
-.col-md-12{
-  background-color:#000000; /*black*/
-  color:white;
-  height:150px;
+  background-color:orange;
 }
