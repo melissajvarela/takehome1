@@ -2,16 +2,13 @@
   background-color:#ffff00; /*yellow */
 }
 .row{
-  height:600px;
-}
-.row{
   height:500px;
   border-color:black;
 }
-.col-md-12{
-  background-color:blue green black;
+.header{
+  background-color:blue;
 }
-.col-md-8{
+.content{
   background-color:red;
 }
 .col-md-4{
