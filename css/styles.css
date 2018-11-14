@@ -1,5 +1,32 @@
 .container-fluid{
-  background-color:yellow;
+  background-color:#ffff00; /*yellow */
+}
+.row{
+  height:600px;
+  width:400px;
+}
+.col-md-12{
+  background-color:#0000ff; /*blue*/
+  height:300px;
+}
+.col-md-12{
+  background-color:#00b33c;
+  height:150px;
+}
+.col-md-8{
+  background-color:#e60000;/*red*/
+  height:400px
+}
+.col-md-4{
+  background-color:#00ffff; /*teaL*/
   height:400px;
-  width:100%
+}
+.col-md-3{
+  background-color:#ff9900; /*orange*/
+  height:250px
+}
+.col-md-12{
+  background-color:#000000; /*black*/
+  color:white;
+  height:150px;
 }
