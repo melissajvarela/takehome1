@@ -1,11 +1,11 @@
 .container-fluid{
   background-color:#ffff00; /*yellow */
 }
-.container{
+.row{
   height:600px;
-  width:400px;
 }
-#row{
+.row{
+  height:500px;
   border-color:black;
 }
 .col-md-12{
